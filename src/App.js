@@ -1,9 +1,9 @@
 import React from "react";
 import "../node_modules/bootstrap/dist/css/bootstrap.css";
 // import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
-import About from "./componenet/pages/About";
+// import About from "./componenet/pages/About";
 import Contact from "./componenet/pages/Contact";
-import Home from "./componenet/pages/Home";
+// import Home from "./componenet/pages/Home";
 import Navbar from "./layout/Navbar";
 import Error from "./componenet/pages/Error";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
